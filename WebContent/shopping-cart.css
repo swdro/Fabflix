@@ -1,0 +1,25 @@
+.empty-cart-text {
+    text-align: center;
+    color: rgba(0,0,0,0.3);
+    margin: 300px 0;
+}
+
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cart-quantity {
+    display: flex;
+    padding: 20px;
+}
+
+.quantity-inc-dec {
+    border-radius: 50px;
+    background-color: #575757FF;
+    color: white;
+    border: none;
+    width: 30px;
+    height: 30px;
+    margin: 0 10px;
+}

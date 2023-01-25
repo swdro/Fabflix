@@ -1,0 +1,21 @@
+.login-info {
+    margin: 5% auto 0 auto;
+    width: 50%;
+    padding: 3em;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #ccc;
+}
+
+h1 {
+    text-align: center;
+    font-size: 56px;
+}
+
+.login-error {
+    color: red;
+}
+
+.g-recaptcha {
+    display: inline-block;
+    margin: auto;
+}

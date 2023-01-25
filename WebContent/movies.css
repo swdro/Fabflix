@@ -1,0 +1,13 @@
+.sorting-form {
+    margin: 80px 0 30px 0;
+}
+
+.shopping-cart-notification {
+    color: forestgreen;
+    margin: 10px 0;
+}
+
+#pagination-buttons {
+    width: 100%;
+    text-align: center;
+}

@@ -1,0 +1,38 @@
+.search-browse-container {
+    margin: 8em auto;
+    width: 80%;
+}
+
+.search-browse-container h1 {
+    text-align: center;
+}
+
+.search-div {
+    margin: auto;
+    width: fit-content;
+}
+
+.browse-div a {
+    margin: 1em 1em 1em 0;
+}
+
+.genres {
+    margin: 0 2em;
+    overflow: auto;
+}
+
+.titles {
+    margin: 0 2em;
+    overflow: auto;
+}
+
+.browse-div h3 {
+    margin: 2em 0;
+}
+
+.autocomplete-suggestions { border: 1px solid #999; background: #FFF; overflow: auto; }
+.autocomplete-suggestion { padding: 2px 5px; white-space: nowrap; overflow: auto; }
+.autocomplete-selected { background: #F0F0F0; }
+.autocomplete-suggestions strong { color: var(--theme-color); }
+.autocomplete-group { padding: 2px 5px; }
+.autocomplete-group strong { display: block; border-bottom: 1px solid #000; }
