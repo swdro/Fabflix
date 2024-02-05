@@ -5,7 +5,7 @@
   - #### Names: 
     - Alejandro Matamoros, Vaibhav Patel
 
-  - #### Project 5 Video Demo Link:
+  - #### Project 5 Video Demo Link: https://www.youtube.com/watch?v=ZR5DDI9QnxA&t=312s
 
 ### 2. Deployment Steps:
 We built our project from the cs122b-fall21-project1-api-example repo so the steps to deploy the application with Tomcat are the same.
